@@ -3,6 +3,6 @@
 
 int main(void)
 {
-	printf("duri");
+	printf("skeleton hi! ");
 	return 0;
 }
